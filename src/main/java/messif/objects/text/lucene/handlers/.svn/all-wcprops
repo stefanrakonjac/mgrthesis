@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers
+END
+AllInOneHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/AllInOneHandler.java
+END
+AbstractXmlFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/AbstractXmlFileHandler.java
+END
+CoPhIRAllInOneHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/CoPhIRAllInOneHandler.java
+END
+AbstractTextFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/AbstractTextFileHandler.java
+END
+CoPhIRFieldsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/CoPhIRFieldsHandler.java
+END
+LocatorTitleDescKeywordsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/utils/!svn/ver/134/lucene/messif/objects/text/lucene/handlers/LocatorTitleDescKeywordsHandler.java
+END
